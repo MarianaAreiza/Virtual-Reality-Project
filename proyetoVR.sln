@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proyetoVR", "proyetoVR.csproj", "{946BFDAF-234B-F5B4-E842-AC57B98C4988}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proyetoVR.Editor", "proyetoVR.Editor.csproj", "{E920D749-0C03-507E-E7F1-4A8485492E92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{946BFDAF-234B-F5B4-E842-AC57B98C4988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{946BFDAF-234B-F5B4-E842-AC57B98C4988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{946BFDAF-234B-F5B4-E842-AC57B98C4988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{946BFDAF-234B-F5B4-E842-AC57B98C4988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E920D749-0C03-507E-E7F1-4A8485492E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E920D749-0C03-507E-E7F1-4A8485492E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E920D749-0C03-507E-E7F1-4A8485492E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E920D749-0C03-507E-E7F1-4A8485492E92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
